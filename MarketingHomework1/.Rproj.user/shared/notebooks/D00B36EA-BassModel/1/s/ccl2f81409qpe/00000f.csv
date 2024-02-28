@@ -1,0 +1,6 @@
+"0","years <- seq(from = 2009, to = 2008 + 50, by = 1)"
+"0",""
+"0","innovation_prediction <- bass.f(1:50, p = 3.825e-03, q = 7.929e-02) * 4.602e+03"
+"0",""
+"0","innovation_data <- data.frame(Year = years, Sales = innovation_prediction)"
+"0",""

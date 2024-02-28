@@ -1,0 +1,2 @@
+"0","ggplot(data = innovation_data, aes(x = Year, y = Sales)) +"
+"0","  geom_bar(stat='identity', fill = 'sienna2') + ylab(""Sales (In million $)"")"

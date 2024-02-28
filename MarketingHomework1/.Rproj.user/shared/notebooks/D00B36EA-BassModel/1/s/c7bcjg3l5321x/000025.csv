@@ -1,0 +1,7 @@
+"0","colnames(data_sheet) <- c(""year"", ""sales"")"
+"0","function_sales = ggplot(data = data_sheet, aes(x = year, y = sales)) +"
+"0","  geom_bar(stat = 'identity') +"
+"0","  ggtitle('Nokia sales 1999-2022') +"
+"0","  theme(axis.text.x = element_text(angle = -45, vjust = 0.5, hjust=1))"
+"0",""
+"0","function_sales"
